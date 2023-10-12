@@ -1,11 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
-import { Routes, Route } from "react-router-dom";
+import './App.css';
 function App() {
   return (
-    <Routes>
-      <Route></Route>
-    </Routes>
+    <header>
+<h1>hello</h1>
+    </header>
+ 
   );
 }
 
